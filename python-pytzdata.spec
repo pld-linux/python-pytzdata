@@ -7,7 +7,7 @@
 Summary:	The Olson timezone database for Python
 Name:		python-%{module}
 Version:	2020.1
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	https://files.pythonhosted.org/packages/source/p/pytzdata/%{module}-%{version}.tar.gz
